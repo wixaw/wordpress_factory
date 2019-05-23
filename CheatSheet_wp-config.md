@@ -1,7 +1,9 @@
 # Liste d'options Wordpress utile
 
 ## Debug
+```
 define( 'WP_DEBUG', true );
+```
 
 ## Configuration générale
 ### Site URL 
